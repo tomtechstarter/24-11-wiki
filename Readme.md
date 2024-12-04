@@ -6,6 +6,7 @@
 - `Backend`: Der Benutzer sieht die Backend Services nicht bzw. interagiert damit nicht direkt
 - `Client`: Das Benutzerendgerät
 - `Server`: ist ein Gerät, das Anfragen von Clients verarbeitet und die angeforderten Dienste bereitstellt
+- `Datenbank`: ist ein System zur elektronischen Datenverwaltung.
 
 ![Client Server Model](./images/client_server_model.png)
 
@@ -34,3 +35,5 @@
 
 - `CPU`: Central Processing Unit - Prozessor
 - `RAM`: Random Access Memory - Arbeitsspeicher. Kurzzeitspeicher
+- `ROM`: Read-Only Memory - CD-ROM. Festplatte
+- `USB`: Universal Serial Bus - USB-A. USB-B. USB-C
